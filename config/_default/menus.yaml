@@ -1,0 +1,48 @@
+leftnav:
+- identifier: 7b15e5e7-6362-1cd4-0f66-8574c426cbbb
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7bacf7f5-ad35-a7ff-c20b-fa5f19cb1875
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 486f0753-5964-39ee-3770-420f14586cd1
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 1677945a-0bc0-7f43-1aac-25e19722c7d0
+  name: In-Class Writings
+  pageRef: /pages/in-class-writings
+  weight: 40
+- identifier: c3c52d2c-b91d-6cd6-c797-daec95f435bf
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: eb142767-373a-72c3-6cfd-a370aabd9623
+  name: Lecture Outlines
+  pageRef: /pages/lecture-outlines
+  weight: 60
+- identifier: b7af93a7-cfda-9224-0541-d3559584db59
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 70
+- identifier: f50914a3-6a73-4ff4-a4e9-3c7650c7d952
+  name: Essay 1
+  pageRef: /pages/assignments/essay-1
+  parent: b7af93a7-cfda-9224-0541-d3559584db59
+  weight: 80
+- identifier: 066190a4-a557-fdb3-ef42-ed1b1a708de3
+  name: Essay 2
+  pageRef: /pages/assignments/essay-2
+  parent: b7af93a7-cfda-9224-0541-d3559584db59
+  weight: 90
+- identifier: f9db5f10-76fd-42cd-1dbf-c2c17bdfa9ad
+  name: Essay 3
+  pageRef: /pages/assignments/essay-3
+  parent: b7af93a7-cfda-9224-0541-d3559584db59
+  weight: 100
+- identifier: 3d5a8363-83c0-9b87-f029-e6c15dcaaf56
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 110
