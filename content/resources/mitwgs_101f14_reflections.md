@@ -4,6 +4,8 @@ description: This resource contains information related to end of term reflectio
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/0ce88d12c4ff8bcf977dd2431a85f75d_MITWGS_101F14_Reflections.pdf
 file_size: 254948
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

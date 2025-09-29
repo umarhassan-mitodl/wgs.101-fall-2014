@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the course assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -139,7 +141,7 @@ Due: Homework 4
 
 Gender, Race and Suffrage (cont.)
 
-Screening: {{% resource_link "eb1731b6-2149-4452-931b-a29516ff8108" "_Ida B. Wells: A Passion for Justice_" %}}
+Screening: [_Ida B. Wells: A Passion for Justice_](http://newsreel.org/video/IDA-B-WELLS)
 
 
 {{< tdclose >}}
@@ -186,7 +188,7 @@ Due: Homework 6
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Screening: {{% resource_link "88dc571e-e248-4451-8db7-36ed3e57646c" "_The Life and Times of Rosie the Riveter_" %}}
+Screening: [_The Life and Times of Rosie the Riveter_](http://clarityfilms.org/rosie.html)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -238,7 +240,7 @@ Due: Homework 8
 
 The Second Wave of Women's Rights Activism (1963-present)
 
-Screening: {{% resource_link "2ce0be38-2b32-47f0-aa64-8fafcab1e12c" "_Sisters of '77_" %}}
+Screening: [_Sisters of '77_](http://www.pbs.org/independentlens/sistersof77/)
 
 
 {{< tdclose >}}
@@ -312,7 +314,7 @@ No assignments distributed or due
 
 Representation of Gender in Advertising and Popular Visual Media
 
-Screening: {{% resource_link "fc8f187c-28fd-4fc5-805f-ed1b94dbd856" "_Killing Us Softly 4: Advertising's Image of Women_" %}}
+Screening: [_Killing Us Softly 4: Advertising's Image of Women_](http://www.mediaed.org/cgi-bin/commerce.cgi?preadd=action&key=241)
 
 
 {{< tdclose >}}
@@ -358,7 +360,7 @@ Due: Revision of Essay 1 + cover letter
 
 Crossing Gender Boundaries
 
-Screening: {{% resource_link "41a010b7-6579-464f-ba4a-a7bb4ff8e8c7" "_Ma Vie en Rose_" %}}
+Screening: [_Ma Vie en Rose_](http://www.imdb.com/title/tt0119590/?ref_=fn_al_tt_1)
 
 
 {{< tdclose >}}

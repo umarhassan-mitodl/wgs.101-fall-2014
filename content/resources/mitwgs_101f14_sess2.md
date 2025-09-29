@@ -5,6 +5,8 @@ description: "This resource contains information related to the roots of contemp
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/49011611bc6037d79ffe8ed038d6c451_MITWGS_101F14_Sess2.pdf
 file_size: 126043
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

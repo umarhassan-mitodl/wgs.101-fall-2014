@@ -5,6 +5,8 @@ description: This resource contains information related to gender, race and suff
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/07a434cc2a478ae5222001340fc29234_MITWGS_101F14_Sess7.pdf
 file_size: 259266
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

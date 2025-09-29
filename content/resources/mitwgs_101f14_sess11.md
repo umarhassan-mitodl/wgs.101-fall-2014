@@ -6,6 +6,8 @@ description: "This resource contains information related to beyond suffrage: The
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/91eb2611ec14b5aaa6ce1f3c79fbac2f_MITWGS_101F14_Sess11.pdf
 file_size: 98691
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

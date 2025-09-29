@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the in-class writing assignments for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: In-Class Writings
@@ -32,7 +34,7 @@ IN-CLASS WRITING TOPICS
 {{% resource_link 1c5879e1-0b4a-9f4c-67c0-a48d56ab72b4 "The MIT Seal Controversy (PDF)" %}}
 
 _Information about the MIT seal:_  
-{{% resource_link "a9b2a69f-1101-47ee-895b-69d5171842c9" "Seal of the Massachusetts Institute of Technology" %}}, MIT Libraries Archives.
+[Seal of the Massachusetts Institute of Technology](http://libraries.mit.edu/mithistory/institute/seal-of-the-massachusetts-institute-of-technology/), MIT Libraries Archives.
 
 
 {{< tdclose >}}
