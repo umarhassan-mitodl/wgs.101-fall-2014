@@ -5,8 +5,6 @@ description: This resource contains information related to "why I became a 'woma
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-fall-2014/ae2e9d297bde7605899fa9fcc24d0efa_MITWGS_101F14_InClass5.pdf
 file_size: 123574
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
